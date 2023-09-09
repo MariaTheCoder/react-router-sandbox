@@ -29,7 +29,7 @@
   padding: 0.25rem;
 }
 
-.nav li.active {
+.nav a.active {
   background-color: #555;
 }
 
